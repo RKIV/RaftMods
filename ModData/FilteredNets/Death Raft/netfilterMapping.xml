@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<NetFilterMappings xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Mappings>
+    <NetFilterMapping>
+      <NetId>22867</NetId>
+      <ActiveNetFilter>Plank</ActiveNetFilter>
+    </NetFilterMapping>
+    <NetFilterMapping>
+      <NetId>27819</NetId>
+      <ActiveNetFilter>Plank</ActiveNetFilter>
+    </NetFilterMapping>
+    <NetFilterMapping>
+      <NetId>15098</NetId>
+      <ActiveNetFilter>Plank</ActiveNetFilter>
+    </NetFilterMapping>
+    <NetFilterMapping>
+      <NetId>27820</NetId>
+      <ActiveNetFilter>Plank</ActiveNetFilter>
+    </NetFilterMapping>
+    <NetFilterMapping>
+      <NetId>30422</NetId>
+      <ActiveNetFilter>Plank</ActiveNetFilter>
+    </NetFilterMapping>
+    <NetFilterMapping>
+      <NetId>22328</NetId>
+      <ActiveNetFilter>Plank</ActiveNetFilter>
+    </NetFilterMapping>
+    <NetFilterMapping>
+      <NetId>22327</NetId>
+      <ActiveNetFilter>Plank</ActiveNetFilter>
+    </NetFilterMapping>
+    <NetFilterMapping>
+      <NetId>22131</NetId>
+      <ActiveNetFilter>Plank</ActiveNetFilter>
+    </NetFilterMapping>
+    <NetFilterMapping>
+      <NetId>21994</NetId>
+      <ActiveNetFilter>Plank</ActiveNetFilter>
+    </NetFilterMapping>
+    <NetFilterMapping>
+      <NetId>22130</NetId>
+      <ActiveNetFilter>Plank</ActiveNetFilter>
+    </NetFilterMapping>
+  </Mappings>
+</NetFilterMappings>

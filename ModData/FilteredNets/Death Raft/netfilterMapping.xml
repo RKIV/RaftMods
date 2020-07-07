@@ -10,10 +10,6 @@
       <ActiveNetFilter>Plank</ActiveNetFilter>
     </NetFilterMapping>
     <NetFilterMapping>
-      <NetId>15098</NetId>
-      <ActiveNetFilter>Plank</ActiveNetFilter>
-    </NetFilterMapping>
-    <NetFilterMapping>
       <NetId>27820</NetId>
       <ActiveNetFilter>Plank</ActiveNetFilter>
     </NetFilterMapping>
